@@ -8,12 +8,12 @@ Esses templates foram projetados para padronizar o ciclo de relato, rastreabilid
 
 ## 📂 Modelos Disponíveis
 
-### 1. [Relatório Canônico de Defeito (ISO 29119-3 Completo)](./templates/defect-report-iso29119-full.md)
+### 1. [Relatório Canônico de Defeito (ISO 29119-3 Completo)](./templates/defect-report/modelo_defeito_iso29119_redmine.md)
 * **Objetivo:** Registro detalhado com rastreabilidade total, conformidade formal e governança.
 * **Cobertura:** Identificação, Rastreabilidade (níveis e tipos de teste), Ambiente detalhado, Severidade/Prioridade, Passos para Reprodução, Evidências, Análise de Causa Raiz, Resolução e Reteste/Sign-off.
 * **Recomendado para:** Ambientes regulados, auditorias, UAT formal e testes de aceitação/sistema.
 
-### 2. [Relatório Enxuto de Defeito (Dia a Dia)](./templates/defect-report-lean.md)
+### 2. [Relatório Enxuto de Defeito (Dia a Dia)](./templates/defect-report/modelo_defeito_iso29119_lean_redmine.md)
 * **Objetivo:** Registro ágil e direto ao ponto focado na produtividade dos times de desenvolvimento e QA.
 * **Cobertura:** Contexto mínimo essencial, Passos para reprodução, Comportamento observado vs. esperado e Evidências.
 * **Recomendado para:** Sprints ágeis, rotina diária e gestão de issues no Redmine/Jira.
